@@ -1,0 +1,5 @@
+{
+  "name": "PDF Learning Assistant",
+  "description": "An AI-powered tool to help users convert complex PDF documents into actionable learning materials, including summaries, study plans, and quizzes.",
+  "requestFramePermissions": []
+}
